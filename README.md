@@ -1,4 +1,4 @@
-### Hi there 👋 I am Elias or Razakos and welcome to my Github profile!
+### Hi I am Elias or Razakos and welcome to my Github profile!
 
 - I am the CO-Founder of apousies.gr (Ημερολόγιο Μαθητή)
 - Linux user (Currently Running Arch Linux with Gnome 44)
