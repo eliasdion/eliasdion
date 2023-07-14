@@ -2,7 +2,7 @@
 
 - I am the CO-Founder of apousies.gr (Ημερολόγιο Μαθητή)
 - Linux user (Currently Running Arch Linux with Gnome 44)
-- Like to write code in JS and Python
+- I like to write code in JS and Python
 - Also i'm currently learning web development 
 <!--
 **eliasdion/eliasdion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
