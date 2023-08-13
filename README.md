@@ -1,7 +1,7 @@
 ### Hi I am Elias or Razakos and welcome to my Github profile!
 
 - I am the CO-Founder of apousies.gr (Ημερολόγιο Μαθητή)
-- Linux user (Currently Running Debian 12 with Gnome 43.6)
+- Linux user (Currently Running Debian 12 with Gnome)
 - I like to write code in JS and Python
 - Also i'm currently learning web development 
 <!--
