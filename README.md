@@ -1,9 +1,10 @@
-### Hi I am Elias or Razakos and welcome to my Github profile!
+### 👋 Hi I am Elias or Razakos and welcome to my Github profile!
 
-- I am the CO-Founder of apousies.gr (Ημερολόγιο Μαθητή)
-- Linux user (Currently Running Debian 12 with Gnome)
-- I like to write code in JS and Python
-- Also i'm currently learning web development 
+- 📚 Student on IT Sector of 1st EPAL Neapolis
+- 💼 CO-Founder of apousies.gr (Ημερολόγιο Μαθητή)
+- 🖥️ Linux user (Currently Running Debian 12 with KDE Plasma)
+- ⌨️ I like to write code in JS and Python
+- 😁 Also i'm currently learning web development 
 <!--
 **eliasdion/eliasdion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
