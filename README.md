@@ -1,7 +1,7 @@
 ### 👋 Hi I am Elias or Razakos and welcome to my Github profile!
 
 - 📚 Student on IT Sector of 1st EPAL Neapolis
-- 💼 CO-Founder of apousies.gr (Ημερολόγιο Μαθητή)
+- 💼 CO-Founder at apousies.gr (Ημερολόγιο Μαθητή)
 - 🖥️ Linux user (Currently Running Debian 12)
 - ⌨️ I like to write code in JS and Python
 - 😁 Also i'm currently learning web development 
