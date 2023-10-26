@@ -2,7 +2,7 @@
 
 - 📚 Student on IT Sector of 1st EPAL Neapolis
 - 💼 CO-Founder at apousies.gr (Ημερολόγιο Μαθητή)
-- 🖥️ Linux/Windows user 
+- 🖥️ Linux user ( i use Arch btw )
 - ⌨️ I like to write code in JS and Python
 - 😁 Also i'm currently learning web development 
 <!--
