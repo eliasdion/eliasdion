@@ -1,4 +1,4 @@
-### 👋 Hi I am Elias or Razakos and welcome to my Github profile!
+### 👋 Hi I am Elias Nektarios Dionysopoulos and welcome to my Github profile!
 
 - 📚 **Student on IT Sector of 1st EPAL Neapolis**
 - 💼 **CO-Founder at apousies.gr (Ημερολόγιο Μαθητή)**
