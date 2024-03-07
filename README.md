@@ -1,7 +1,7 @@
 ### 👋 Hi I am Elias Nektarios Dionysopoulos and welcome to my Github profile!
 
 - 📚 **Student on IT Sector of 1st EPAL Neapolis**
-- 💼 **CO-Founder at apousies.gr (Ημερολόγιο Μαθητή)**
+- 💼 **Contributed to apousies.gr (Ημερολόγιο Μαθητή)**
 - 🖥️ **Linux user**
 - ⌨️ **I like to write code in JS and Python**
 - 😁 **Also i'm currently learning web development**
